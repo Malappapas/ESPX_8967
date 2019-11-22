@@ -1,5 +1,5 @@
 # Embedded-Systems-Exercise-2
-School project to connect 2 raspberry pi and exchange new messages saved a circular buffer
+School project to connect 2 raspberry pi and exchange new messages saved in a circular buffer
 * Didn't manage to take measurements due to deadlines and too lazy to check if right
 
 # Explenation
